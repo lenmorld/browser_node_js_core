@@ -1,8 +1,12 @@
+# Notion page
+
+https://lennythedev.notion.site/Web-workers-a4bf8fbfa4eb45db878917e5a8a277b5?pvs=4
+
 # Web worker
 
 - a background thread (outside of main UI thread)
 - A JS script running in the background
-- runs independent of other scripts, doesn't affect 
+- runs independent of other scripts, doesn't affect UI thread
 
 performance of page 
 - doesn't affect UI performance of page
@@ -15,7 +19,7 @@ web workers
 - cannot perform any DOM manipulation
 
 Use cases:
-- offload any 
+- offload any long-running computation
 - large data to fetch/parse from server
 - complex calculations
 - dashboard pages that display real-time data
@@ -50,6 +54,9 @@ new Worker(
 https://parceljs.org/languages/javascript/#web-workers
 
 
+# Running example
+
+npx parcel index.html
 
 # Resources
 

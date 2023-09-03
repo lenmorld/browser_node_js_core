@@ -571,7 +571,7 @@ calcButton.addEventListener("click", ()=>{
         console.log("[main] worker already running");
         return;
     }
-    worker = new Worker(require("77d203fa77c70657"));
+    worker = new Worker(require("4582a52abda460a1"));
     // offload expensive calculation to wb worker
     // send a "signal" to start processing
     worker.postMessage(true);
@@ -600,7 +600,7 @@ stopWorkerButton.addEventListener("click", ()=>{
  // })
 ;
 
-},{"77d203fa77c70657":"cNo0o"}],"cNo0o":[function(require,module,exports) {
+},{"4582a52abda460a1":"cNo0o"}],"cNo0o":[function(require,module,exports) {
 let workerURL = require("f79957effac1f149");
 let bundleURL = require("49f28d7fc033d86a");
 let url = bundleURL.getBundleURL("2UGdn") + "web-worker-calc.f92a1674.js" + "?" + Date.now();
