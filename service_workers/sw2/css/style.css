@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: #333333;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+nav {
+    background: #444444;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+nav .current > a {
+    color: #9da0ea;
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 30px;
+}
