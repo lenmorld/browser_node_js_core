@@ -1,0 +1,93 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "first_name": "Bea",
+        "last_name": "Seefus",
+        "email": "bseefus0@amazon.co.jp",
+        "gender": "Female",
+        "ip_address": "196.217.111.141"
+      },
+      {
+        "id": 2,
+        "first_name": "Christyna",
+        "last_name": "Bein",
+        "email": "cbein1@dion.ne.jp",
+        "gender": "Female",
+        "ip_address": "94.233.95.192"
+      },
+      {
+        "id": 3,
+        "first_name": "Malinde",
+        "last_name": "Fullager",
+        "email": "mfullager2@theatlantic.com",
+        "gender": "Female",
+        "ip_address": "185.188.201.184"
+      },
+      {
+        "id": 4,
+        "first_name": "Clemmy",
+        "last_name": "Martignon",
+        "email": "cmartignon3@t-online.de",
+        "gender": "Female",
+        "ip_address": "73.48.47.134"
+      },
+      {
+        "id": 5,
+        "first_name": "Noah",
+        "last_name": "McErlaine",
+        "email": "nmcerlaine4@accuweather.com",
+        "gender": "Male",
+        "ip_address": "193.16.76.153"
+      },
+      {
+        "id": 6,
+        "first_name": "Domini",
+        "last_name": "Woodrooffe",
+        "email": "dwoodrooffe5@elpais.com",
+        "gender": "Female",
+        "ip_address": "40.125.98.31"
+      },
+      {
+        "id": 7,
+        "first_name": "Blane",
+        "last_name": "Zannotelli",
+        "email": "bzannotelli6@sphinn.com",
+        "gender": "Male",
+        "ip_address": "168.132.205.129"
+      },
+      {
+        "id": 8,
+        "first_name": "Margy",
+        "last_name": "Van de Castele",
+        "email": "mvandecastele7@disqus.com",
+        "gender": "Female",
+        "ip_address": "36.167.159.195"
+      },
+      {
+        "id": 9,
+        "first_name": "Cullie",
+        "last_name": "Bourgourd",
+        "email": "cbourgourd8@tiny.cc",
+        "gender": "Male",
+        "ip_address": "239.88.211.216"
+      },
+      {
+        "id": 10,
+        "first_name": "Raleigh",
+        "last_name": "Gallaway",
+        "email": "rgallaway9@usnews.com",
+        "gender": "Male",
+        "ip_address": "1.237.113.138"
+      },
+      {
+        "id": 11,
+        "first_name": "Gilbertine",
+        "last_name": "Carlsen",
+        "email": "gcarlsena@cocolog-nifty.com",
+        "gender": "Female",
+        "ip_address": "160"
+      }
+    ]
+  }
+  
